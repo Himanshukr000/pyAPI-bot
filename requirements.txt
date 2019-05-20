@@ -1,0 +1,5 @@
+tweepy
+SpeechRecognition
+gTTS
+pyaudio
+pyspeech
