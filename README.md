@@ -39,5 +39,5 @@ Python bot to help your Lazy inner Self. This bot Automates your Twitter Work (L
  If you face any problem with the script, feel free to submit an issue.
  If you have any new ideas about tools or something else, you can submit a pull request.
  
- Made with <3 by me and https://github.com/mrT4ntr4
+ Made with <3 by me and [mrT4ntr4](https://github.com/mrT4ntr4)
  
