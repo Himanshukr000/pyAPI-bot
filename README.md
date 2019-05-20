@@ -24,6 +24,7 @@ Python bot to help your Lazy inner Self. This bot Automates your Twitter Work (L
     * While Creating the App twitter wwill ask about some things (short and long ones). So fill those out and you would               successfully create the App.
     
  ### Usage :
+ You need to run sp_test.py and say the commands .
  1. For Twitter :
     * Saying ``` Show the tweets ``` will command the bot to read the tweets for you (Latest ones).
     * Saying ``` Like [username] ``` will like the username's tweet in the recent tweets.
