@@ -21,7 +21,7 @@ Python bot to help your Lazy inner Self. This bot Automates your Twitter Work (L
         access_token = 'access token'
         access_token_secret = 'access token secret'
       ```
-    * While Creating the App twitter wwill ask about some things (short and long ones). So fill those out and you would               successfully create the App.
+    * While Creating the App twitter will ask about some things (short and long ones). So fill those out and you would               successfully create the App.
     
  ### Usage :
  You need to run sp_test.py and say the commands .
